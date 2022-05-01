@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.glslcs": "glsl",
+		"*.sty": "tex",
+		"*.tds": "cpp",
+		"filesystem": "cpp"
+	}
+}
