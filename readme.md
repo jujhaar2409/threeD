@@ -26,7 +26,7 @@
 	./build/Debug/Lexer #(if your compiler is MSVC)
 	```
 
-* You want to make all the test cases pass. The tds files and their outputs are located in ```tests/cases```
+* You want to make all the test cases pass. The tds files and their outputs are located in [tests/cases](tests/cases/)
 
 * In order to run all the tests at once, run the following command after building
 
