@@ -57,3 +57,6 @@ _deps
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# testcase output
+!tests/cases/*.out

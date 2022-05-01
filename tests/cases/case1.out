@@ -1,0 +1,9 @@
+TYPE int
+IDENT main
+OPARA (
+CPARA )
+OBRACE {
+RET return
+INT_LITERAL 0
+SEMICOLON ;
+CBRACE }
