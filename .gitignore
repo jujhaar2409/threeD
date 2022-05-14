@@ -60,3 +60,6 @@ _deps
 
 # testcase output
 !tests/cases/*.out
+
+.DS_Store
+cmake-build-debug
